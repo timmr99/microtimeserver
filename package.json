@@ -1,0 +1,19 @@
+{
+  "name": "micro-timeserver",
+  "version": "1.0.0",
+  "description": "freecodecamp microservice timestamp challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "freecodecamp"
+  ],
+  "author": "timothy.r.wirtjes@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
