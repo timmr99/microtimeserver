@@ -4,7 +4,7 @@
   "description": "freecodecamp microservice timestamp challenge",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "start": "mode index.js"
   },
   "keywords": [
     "node",
